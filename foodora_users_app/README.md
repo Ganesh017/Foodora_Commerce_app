@@ -1,4 +1,4 @@
-# foodora_users_app
+# Foodora_users_app
 
 This app for uses for purchasing foods
 
