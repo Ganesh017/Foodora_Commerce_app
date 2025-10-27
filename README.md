@@ -1,5 +1,10 @@
 ## Description:
-Foodora is my college project, a user-friendly food delivery app created with Flutter for iOS and Android. Powered by Google Firebase, it features a reliable backend with Cloud Firestore for data management. The app includes a User App for customers, Sellers App for restaurants, and Riders App for delivery personnel, all managed through an Admin Web Portal. Streamlining updates is made easy with Firebase App Distribution. This project demonstrates my proficiency in app development and backend management, offering a comprehensive solution for the entire food delivery process.
+Our
+"Foodora" is a Smartphone app that enables users to place orders from their favorite
+restaurants and deliver to their place. Overall, this idea provides a faster way to get meals
+delivered to your home from a restaurant, saving you time with its efficiency. This project's
+major goal is to create mobile applications that make it easier for customers to purchase
+meals online and for vendors to sell their goods on our platforms.
 ## Technologies used:
 •	Flutter
 •	Google Firebase
