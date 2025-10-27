@@ -6,4 +6,3 @@ Foodora is my college project, a user-friendly food delivery app created with Fl
 •	Firebase Cloud Firestore
 
 
-
